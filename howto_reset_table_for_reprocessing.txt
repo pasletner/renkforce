@@ -1,0 +1,1 @@
+UPDATE gps_files SET processingState=0 WHERE 1;
